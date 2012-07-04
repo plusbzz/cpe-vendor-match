@@ -1,0 +1,18 @@
+Code for an interesting NLP problem. 
+
+sample_input.csv contains 3 columns: Vendor, Product and Version. 
+These entries have been created by humans, so are not very consistent.
+
+dict.csv contains a standard dictionary. This has been created by parsing 
+the XML standard provided by NIST at 
+http://static.nvd.nist.gov/feeds/xml/cpe/dictionary/official-cpe-dictionary_v2.2.xml
+
+We would like to match each entry in input.csv to an accurate entry in 
+dict.csv. If there is no matching entry in the dictionary, we would like 
+to output NA.
+
+match_cpe.py is my attempt at solving this problem using NLP techniques.
+
+Usage:
+
+./match_cpe.py <input csv file> <dictionary csv file>

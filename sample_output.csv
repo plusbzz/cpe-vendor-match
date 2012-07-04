@@ -1,0 +1,26 @@
+Adobe Acrobat Reader 5.0.9,cpe:/a:adobe:acrobat_reader:5.0.9,Adobe Acrobat Reader 5.0.9,1,2,0.133333333333,0.0714285714286,0.614285714286
+Adobe Acrobat Reader 5.1,cpe:/a:adobe:acrobat_reader:5.1,Adobe Acrobat Reader 5.1,1,2,0.142857142857,0.0769230769231,0.659340659341
+Adobe Acrobat Reader 5.x,cpe:/a:adobe:acrobat_reader:5.0,Adobe Acrobat Reader 5.0,2,3,0.266666666667,0.214285714286,2.40476190476
+Adobe Acrobat X 10.1,cpe:/a:adobe:acrobat:10.1,Adobe Acrobat X (10.1),2,4,0.142857142857,0.1875,1.98214285714
+Adobe Acrobat 10.x,cpe:/a:adobe:acrobat:10.0,Adobe Acrobat X (10.0),1,7,0.0769230769231,0.25,2.61538461538
+Adobe Acrobat 10.x for Macintosh,cpe:/a:adobe:common_file_installer:1.0.0,Adobe Common File Installer 1.0.0,26,27,0.227272727273,0.190476190476,22.1406926407
+Adobe Acrobat 5.1,cpe:/a:adobe:acrobat:5.1,Adobe Acrobat 5.1,0,2,0.0,0.153846153846,0.307692307692
+Adobe Acrobat 5.x,cpe:/a:adobe:acrobat:5.0,Adobe Acrobat 5.0,1,3,0.153846153846,0.285714285714,1.75824175824
+Adobe Acrobat 6.0,cpe:/a:adobe:acrobat:6.0,Adobe Acrobat 6.0,0,2,0.0,0.153846153846,0.307692307692
+Adobe Acrobat 7.0 Macintosh,cpe:/a:adobe:acrobat:7.0,Adobe Acrobat 7.0,10,12,0.333333333333,0.333333333333,14.6666666667
+Adobe Acrobat 7.0 Windows,cpe:/a:adobe:acrobat:7.0,Adobe Acrobat 7.0,8,10,0.294117647059,0.294117647059,10.5882352941
+Microsoft Access 2000,cpe:/a:microsoft:access:2000,Microsoft Access 2000,0,2,0.0,0.142857142857,0.285714285714
+Microsoft Access 2000 Runtime SP3,cpe:/a:microsoft:access:2000:sp3,Microsoft Access 2000 sp3,9,10,0.166666666667,0.166666666667,6.33333333333
+Microsoft Access 2000 SP3,cpe:/a:microsoft:access:2000:sp3,Microsoft Access 2000 sp3,1,2,0.0625,0.0625,0.375
+Microsoft Office 2001 SR1 for Ma,cpe:/a:microsoft:access:2000:sr1,Microsoft Access 2000 sr1,15,16,0.0666666666667,0.0666666666667,4.13333333333
+Microsoft Outlook Express 5.0 for MacOS,cpe:/a:microsoft:outlook_express:5.0,Microsoft outlook_express 5.0,11,13,0.142857142857,0.142857142857,6.85714285714
+Microsoft Outlook Express 5.0.2 for MacOS,cpe:/a:microsoft:outlook_express:5.0.2,Microsoft Outlook Express 5.0.2,11,12,0.136363636364,0.0952380952381,5.32683982684
+Microsoft Outlook Express 5.01,cpe:/a:microsoft:outlook_express:5.01,Microsoft outlook_express 5.01,1,3,0.0952380952381,0.0952380952381,0.761904761905
+Microsoft Windows NT 3.5,cpe:/o:microsoft:windows_nt:3.5,Microsoft Windows NT 3.5,1,2,0.117647058824,0.0625,0.540441176471
+Microsoft Windows NT 3.5.1SP1,cpe:/o:microsoft:windows_nt:3.5.1:sp1,Microsoft Windows NT 3.5.1 SP1,2,3,0.105263157895,0.0555555555556,0.804093567251
+Microsoft Windows NT 3.5.1SP4,cpe:/o:microsoft:windows_nt:3.5.1:sp4,Microsoft Windows NT 3.5.1 SP4,2,3,0.1,0.0526315789474,0.763157894737
+Microsoft Windows NT 3.5.1SP5,cpe:/o:microsoft:windows_nt:3.5.1:sp5,Microsoft Windows NT 3.5.1 SP5,2,3,0.105263157895,0.0555555555556,0.804093567251
+Microsoft Windows XP .,cpe:/o:microsoft:windows_xp,Microsoft Windows XP,3,3,0.176470588235,0.125,1.80882352941
+Microsoft Windows XP SP3,cpe:/o:microsoft:windows_xp,Microsoft Windows XP,5,5,0.176470588235,0.125,3.01470588235
+Microsoft Windows XP Tablet PC Ed.,cpe:/o:microsoft:windows_xp::sp1:tablet_pc,Microsoft windows xp_sp1 tablet_pc,11,11,0.181818181818,0.181818181818,8.0
+Vendor Product Version,NA,NA,NA,NA,NA
