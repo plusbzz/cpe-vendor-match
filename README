@@ -16,3 +16,15 @@ match_cpe.py is my attempt at solving this problem using NLP techniques.
 Usage:
 
 ./match_cpe.py <input csv file> <dictionary csv file>
+
+Method:
+
+I use the product of Levenshtein distance and Jaccard distance as a distance metric. 
+I match each entry in the input to all entries in the dictionary that start 
+with the same letter (as an optimization) and then return the dictionary entry with the 
+closest (smallest) value of the distance metric.
+
+Why the product of the two distances? My hunch was that a good match would have both
+distances very small. Since the Jaccard distance is always between 0 and 1 and the
+Levenshtein distance is an arbitrary integer, their product would amplify the separation
+of scores between good and bad matches. It seems to work when you look at the results.
